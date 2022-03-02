@@ -19,7 +19,7 @@
 # Download
 Only Available Jar file.
 
-[Jar](https://github.com/alexa-00/grados/raw/main/releases/Declararse.jar)
+[Jar](https://github.com/lwnadev/Declararse/raw/main/releases/Declararse.jar)
 
 # License
 💜 [MIT License](/LICENSE)
